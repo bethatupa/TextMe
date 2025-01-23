@@ -1,0 +1,54 @@
+/* HomePage.css */
+.homepage {
+    padding: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button.add-contact {
+    background-color: #f192b2;
+    color: #fff;
+    margin-top: 20px;
+  }
+  
+  button.start-chat {
+    background-color: #f192b2;
+    color: #fff;
+    border: none;
+    margin-right: 10px;
+  }
+  
+  button.delete-contact {
+    background-color: #e74c3c;
+    color: #fff;
+    border: none;
+  }
+  
+  input {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  button.send-message {
+    padding: 10px;
+    background-color: #f192b2;
+    color: #fff;
+    border: none;
+  }
+  

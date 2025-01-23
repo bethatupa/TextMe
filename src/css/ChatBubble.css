@@ -1,0 +1,25 @@
+/* ChatBubble.css */
+.message-bubble {
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 60%;
+  }
+  
+  .message-sender {
+    background-color: #d1e7ff;
+  }
+  
+  .message-receiver {
+    background-color: #e6e6e6;
+  }
+  
+  .message-bubble-container {
+    text-align: right;
+    margin: 10px 0;
+  }
+  
+  .message-bubble-container.left {
+    text-align: left;
+  }
+  

@@ -1,0 +1,10 @@
+/* Header.css */
+header {
+  background-color: #f192b2;
+  padding: 10px;
+  color: #fff;
+}
+
+header h1 {
+  margin: 0;
+}

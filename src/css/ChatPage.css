@@ -1,0 +1,32 @@
+/* ChatPage.css */
+.chat-page {
+    padding: 20px;
+  }
+  
+  button.back-button {
+    margin-bottom: 10px;
+  }
+  
+  .chat-container {
+    height: 300px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .message-input {
+    display: flex;
+    margin-top: 10px;
+  }
+  
+  input {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  button.send-message {
+    padding: 10px;
+    background-color: #f192b2;
+    color: #fff;
+    border: none;
+  }
